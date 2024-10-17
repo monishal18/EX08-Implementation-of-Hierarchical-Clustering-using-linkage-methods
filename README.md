@@ -78,13 +78,15 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d6335a57-6161-4faa-b661-c9c8de5b64f0)
-![image](https://github.com/user-attachments/assets/2c035f27-4c82-4f89-8100-352127aae579)
-![image](https://github.com/user-attachments/assets/73d91758-c2c4-4291-a143-e368ef2dde9f)
-![image](https://github.com/user-attachments/assets/f6c8a3fe-ea2c-4e89-8731-a216c47aa7af)
-![image](https://github.com/user-attachments/assets/ab02f8f1-1fbf-4c98-ba67-2ad0ea08391f)
-![image](https://github.com/user-attachments/assets/2105349c-3ae7-4d4f-a0f1-d9940a044ec4)
-![image](https://github.com/user-attachments/assets/fac3040c-0498-4c71-a26f-56f10686e126)
+![image](https://github.com/user-attachments/assets/939d900e-9e2c-4b23-b2d4-20b4fbae77b0)
+![image](https://github.com/user-attachments/assets/86c4619b-3806-4089-b2fa-15c4248968ef)
+![image](https://github.com/user-attachments/assets/d0831b25-5f34-42d8-999f-0907f35a9055)
+![image](https://github.com/user-attachments/assets/cbee935c-5694-436a-998a-e1cd46064636)
+![image](https://github.com/user-attachments/assets/03f637aa-4cd1-4c9f-a17f-caf3d1ac2bc9)
+
+
+
+
 
 
 
